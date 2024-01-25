@@ -229,7 +229,7 @@ var BASE_GOERLI_ADDRESSES = {
 
 var UNREAL_ADDRESSES = /*#__PURE__*/_extends({}, BASE_ADDRESSES, {
   quoterAddress: '0xc2b4dE8146b87bF522d55ECD1Bf581dFbB1b7ab6',
-  multicallAddress: '0xCf8EDB3333Fae73b23f689229F4De6Ac95d1f707',
+  multicallAddress: '0x92D676A4917aF4c19fF0450c90471D454Ac423fc',
   v3CoreFactoryAddress: '0xf2A5DD9ff3aA93807986DeAA9fD316471BD959Cd',
   nonfungiblePositionManagerAddress: '0xa3ec99ea4C1cB4Ba4AA94Bdd11378376b3E2d36C',
   swapRouter02Address: '0xc4330B6fb035F75107F29bf741B945167f2f5330'
