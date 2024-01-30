@@ -180,7 +180,8 @@ const UNREAL_ADDRESSES: ChainAddresses = {
   multicallAddress: '0x92D676A4917aF4c19fF0450c90471D454Ac423fc',
   v3CoreFactoryAddress: '0xf2A5DD9ff3aA93807986DeAA9fD316471BD959Cd',
   nonfungiblePositionManagerAddress: '0xa3ec99ea4C1cB4Ba4AA94Bdd11378376b3E2d36C',
-  swapRouter02Address: '0xc4330B6fb035F75107F29bf741B945167f2f5330'
+  swapRouter02Address: '0x1e40D13384DA02412cE5a5CB9972666F5ec173fF',
+  v1MixedRouteQuoterAddress: '0x6F2bA28d79375311dF2E8eaD201962B953258B37'
 }
 
 export const CHAIN_TO_ADDRESSES_MAP: Record<SupportedChainsType, ChainAddresses> = {
